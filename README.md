@@ -4,6 +4,7 @@ Following generative art prompts (https://genuary.art/) during the month of Janu
 ### January 1
 Draw 10,000 of something
 
+<!--
 ### January 2
 Dithering
 
@@ -13,7 +14,7 @@ Space
 ### January 4
 The next next Fidenza
 
-<!--
+
 
 JAN.1 (credit: Michael Lowe)
 Draw 10,000 of something.
